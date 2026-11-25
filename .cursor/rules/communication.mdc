@@ -1,0 +1,14 @@
+---
+description: How freeAB project writing and chat should sound
+alwaysApply: true
+---
+
+# Communication style
+
+Write for a careful non-specialist reader. Prefer short sentences, everyday words, and concrete examples.
+
+- Explain technical terms the first time they appear, or avoid them when a simpler word will do.
+- Do not say that writing is "plain language," "jargon-free," or "for boomers." Just write that way.
+- Prefer "phone," "invite," "board," "door," and "post" over protocol jargon when talking to organizers and supporters.
+- Keep developer notes precise, but still readable. Define terms like relay, key, or Nostr when they must appear.
+- In docs, READMEs, PR descriptions, and chat replies for this project, match this style.
