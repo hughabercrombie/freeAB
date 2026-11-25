@@ -17,3 +17,6 @@ Thumbs.db
 # Logs
 *.log
 *.tmp
+
+# Scribe local state (journal itself is committed under docs/)
+agents/scribe_state.txt
