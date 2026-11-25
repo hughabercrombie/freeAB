@@ -1,0 +1,11 @@
+{
+  "name": "freeab-stage0",
+  "version": "0.1.0",
+  "private": true,
+  "description": "freeAB.app Stage 0 — multiuser invite/revoke pilot",
+  "scripts": {
+    "start": "python server.py",
+    "start:node": "node server.js",
+    "reset": "python -c \"from pathlib import Path; Path('data/store.json').unlink(missing_ok=True); print('Pilot store cleared.')\""
+  }
+}
