@@ -79,3 +79,10 @@ Opened the freeAB Cursor Project with workspace-scoped agent access. Ported the 
 *This entry was written in full detail on the day the work occurred and will not be condensed in future updates.*
 
 *This journal will be updated after every meaningful step. It is intended to become the authoritative “how we actually did it” record for freeAB.app.*
+
+## Scribe Entry – 2026-11-25 05:23 MDT
+
+**Decision:** We decided supporters vs volunteers are two trust tiers: supporters stay on Announcements (first invite); volunteers need extra vetting and a separate second-tier channel (Volunteers/Strategy on a closed relay from Stage 2+). Longer term, freeAB or a companion app should serve as Overlay-like volunteer tooling without folding door-knock GIS/volunteer DB into the supporter inbox. Stage 0–1 remain Announcements-only.
+**Logic:** Discussed in conversation.
+
+---
